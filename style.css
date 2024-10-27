@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('https://github.com/Dr-Yousafkhan/website/blob/main/back.jpg');
+    background-image: url('back.jpg');
     background-size: cover;
     color: #010101;
 }
